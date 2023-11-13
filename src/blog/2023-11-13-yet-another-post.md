@@ -1,10 +1,11 @@
 ---
-title: Yet another post
-description: This is a description of my new post
+title: Choc visits Almonte
+description: My brother made a surprise visit for the first time.
 author: Mel Turner
-date: 2023-11-10T16:42:56.642Z
+date: 2023-11-13T17:00:43.496Z
 tags:
   - post
+  - featured
 image: /assets/blog/img_002514.jpg
 imageAlt: Chic Carter visits Almonte
 ---
