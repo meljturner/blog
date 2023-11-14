@@ -20,7 +20,7 @@ the element in the DOM causes problems though, if any parent element is anything
 but `overflow: visible`, the element gets cut off.  So you need absolute positioning
 in the body.
 
-![burntlands logo](assets/blog/burntlands-128.png)
+![burntlands logo](/assets/blog/burntlands-128.png)
 
 Some of the time absolute positioning is right, but what about if the thing we're
 attached to is fixed to the center of the screen?  We'll have to move it every
