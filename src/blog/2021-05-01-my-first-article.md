@@ -5,7 +5,6 @@ author: Kevin Powell
 date: 2023-11-13T19:26:18.916Z
 tags:
   - post
-  - featured
 image: /assets/blog/article-1.jpg
 imageAlt: Tethered PC
 ---
