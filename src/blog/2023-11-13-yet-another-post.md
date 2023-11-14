@@ -11,5 +11,5 @@ imageAlt: Chic Carter visits Almonte
 ---
 ## Chic visits Almonte
 
-My brother Chick visited Almonte in September 2023 where we met for the very first time! How could one not meet his younger brother until the age of 78? It's a long story.
+My brother Chic visited Almonte in September 2023 where we met for the very first time! How could one not meet his younger brother until the age of 78? It's a long story.
 ![burntlands logo](/assets/blog/img_002503.jpg)
