@@ -10,4 +10,4 @@ image: /assets/blog/photo-2023-10-20-12-22-35.jpg
 imageAlt: Reunion supper
 ---
 
-From left to right: Paula, Dan. Jill, Carl, Dan, Denise, Pat, Mel, Jeannyne, Chic.
+From left to right: Paula, Gerry. Jill, Carl, Dan, Denise, Pat, Mel, Jeannyne, Chic.
