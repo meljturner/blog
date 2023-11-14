@@ -12,6 +12,9 @@ body {
 }
 
 img {
-  max-width: 100%;
+  max-width: 95%;
+  display: block;
+  margin: 1em auto;
+
   object-fit: cover;
 }
