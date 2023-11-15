@@ -305,6 +305,13 @@ section,
   margin-inline: auto;
 }
 
+.main-article iframe {
+  width: 95%;
+  aspect-ratio: 16 / 9;
+  margin-block: 1em;
+  margin-inline: auto;
+}
+
 .main-article__figure figcaption {
   margin: 0.5rem 0;
   font-size: var(--fs-300);
