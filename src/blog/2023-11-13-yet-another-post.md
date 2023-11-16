@@ -6,13 +6,8 @@ date: 2023-09-15T17:00:43.496Z
 tags:
   - post
   - featured
-feature: slideshow
-slides:
-  - /assets/blog/article-1.jpg
-  - /assets/blog/article-2.jpg
-  - /assets/blog/article-3.jpg
-  - /assets/blog/article-4.jpg
-image: /assets/blog/img_002514.jpg
+feature: image
+image: img_002514.jpg
 caption: Photos from Chic's visit
 ---
 ## Chic visits Almonte
