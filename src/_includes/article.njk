@@ -8,13 +8,27 @@ layout: 'base.njk'
     <h1 class="article-title">
       {{ title }}
     </h1>
-    <figure class="main-article__figure">
-      <img src="{{ image }}" alt="{{  imageAlt }}">
-      <figcaption>
-        {{ imageAlt }}
-      </figcaption>
-    </figure>
-
+    {% if feature == 'image' %}
+      <figure class="main-article-figure">
+        <img src="{{ image }}" alt="{{  caption }}">
+        <figcaption>
+          {{ caption }}
+        </figcaption>
+      </figure>
+    {% elif feature == 'slideshow' %}
+      <figure class="main-article-figure">
+        <div class="reel full">
+          <div><!-- header --></div>
+          {% for slide in slides %}
+            <img src="{{ slide }}" alt="">
+          {% endfor %}
+          <div><!-- footer --></div>
+        </div>
+        <figcaption>
+          {{ caption }}
+        </figcaption>
+      </figure>
+    {% endif %}
     {{ content | safe }}
     
   </div>
