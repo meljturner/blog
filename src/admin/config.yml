@@ -17,6 +17,13 @@ collections:
       - { label: "Author", name: "author", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
+      - {
+          label: "Feature",
+          name: "feature",
+          widget: "list",
+          default: ["image"],
+        }
+      - { label: "Slides", name: "slides", widget: "list" }
       - { label: "Featured Image", name: "image", widget: "image" }
       - { label: "Image Caption", name: "caption", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
