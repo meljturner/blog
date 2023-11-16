@@ -25,5 +25,5 @@ collections:
         }
       - { label: "Slides", name: "slides", widget: "list" }
       - { label: "Featured Image", name: "image", widget: "image" }
-      - { label: "Image Caption", name: "caption", widget: "string" }
+      - { label: "Caption", name: "caption", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
