@@ -12,7 +12,7 @@ imageAlt: GT 5.0
 ## Graham Turner turns 50
 A retrospective on GT's life to commemorate his 50th bithday. A collection of stories and comments from his wide group of friends from different chapters of his life.
 
-<iframe src="https://www.youtube.com/embed/qgEFg5LrVA8">
+<iframe src="https://www.youtube.com/embed/qgEFg5LrVA8?allowfullscreen=1&controls=1">
 </iframe>
 
 ### The voiceover
