@@ -2,7 +2,7 @@
 title: Visit to Sea Ranch
 description: Denise and Dan invited us to their home in Sea Ranch
 author: Mel Turner
-date: 2023-10-18T16:05:11.367Z
+date: 2023-10-19T16:05:11.367Z
 tags:
   - post
 feature: slideshow
