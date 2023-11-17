@@ -3,7 +3,7 @@ backend:
   branch: main # Branch to update
 logo_url: https://idyllic-yeot-7bf9f4.netlify.app/assets/blog/burntlands-128.png
 media_folder: "public/assets/blog"
-public_folder: "/"
+public_folder: "/assets/blog"
 
 collections:
   - name: "blog"
