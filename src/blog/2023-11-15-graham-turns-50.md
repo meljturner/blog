@@ -6,7 +6,7 @@ date: 2021-05-22
 tags:
   - post
   - featured
-image: graham-turner.jpeg
+image: /assets/blog/graham-turner.jpeg
 caption: GT 5.0
 ---
 ## Graham Turner turns 50

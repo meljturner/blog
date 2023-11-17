@@ -7,8 +7,8 @@ tags:
   - post
   - featured
 feature: image
-image: img_002514.jpg
-caption: Photos from Chic's visit
+image: /assets/blog/img_002514.jpg
+caption: Photo from Chic's visit
 ---
 ## Chic visits Almonte
 

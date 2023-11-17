@@ -6,7 +6,7 @@ date: 2023-10-16T04:00:00.000Z
 tags:
   - post
   - featured
-image: photo-2023-10-20-12-22-35.jpg
+image: /assets/blog/photo-2023-10-20-12-22-35.jpg
 caption: Reunion supper
 ---
 

@@ -7,7 +7,7 @@ tags:
   - post
 feature: slideshow
 slides:
-  - photo-2023-10-20-12-14-48.jpg
+  - /assets/blog/photo-2023-10-20-12-14-48.jpg
   - /assets/blog/photo-2023-10-20-12-14-56.jpg
   - /assets/blog/img_0445.jpg
   - /assets/blog/img_0452.png
@@ -15,7 +15,7 @@ slides:
   - /assets/blog/img_002646.png
   - /assets/blog/img_002654.png
   - /assets/blog/img_002640.png
-image: photo-2023-10-20-12-14-48.jpg
+image: /assets/blog/photo-2023-10-20-12-14-48.jpg
 caption: Scenes from Sea Ranch
 ---
 ## Sea Ranch
