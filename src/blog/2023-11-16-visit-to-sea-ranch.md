@@ -8,12 +8,13 @@ tags:
 feature: slideshow
 slides:
   - photo-2023-10-20-12-14-48.jpg
-  - photo-2023-10-20-12-14-56.jpg
-  - img_0445.jpg
-  - img_0452.png
-  - photo-2023-10-20-12-22-21.jpg
-  - img_002640.png
-  - img_002646.png
+  - /assets/blog/photo-2023-10-20-12-14-56.jpg
+  - /assets/blog/img_0445.jpg
+  - /assets/blog/img_0452.png
+  - /assets/blog/photo-2023-10-20-12-22-21.jpg
+  - /assets/blog/img_002646.png
+  - /assets/blog/img_002654.png
+  - /assets/blog/img_002640.png
 image: photo-2023-10-20-12-14-48.jpg
 caption: Scenes from Sea Ranch
 ---
