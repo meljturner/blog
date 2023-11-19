@@ -28,6 +28,7 @@ collections:
       - { label: "Caption", name: "caption", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"
+    label: "Pages"
     files:
       - name: "home"
         label: "Home Page"
