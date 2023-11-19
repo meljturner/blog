@@ -11,7 +11,10 @@ feature:
 slides:
   - /assets/blog/img_002680.jpg
   - /assets/blog/img_002726.jpg
+  - /assets/blog/img_002682.png
+  - /assets/blog/img_002706.png
+  - /assets/blog/img_002723.png
 image: /assets/blog/img_002723.jpg
-caption: Jeannyne
+caption: Travels around Sonoma County
 ---
 Great visit
