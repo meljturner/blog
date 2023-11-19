@@ -27,3 +27,11 @@ collections:
       - { label: "Featured Image", name: "image", widget: "image" }
       - { label: "Caption", name: "caption", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+  - name: pages
+    files:
+     - label: "Home Page"
+        name: "home"
+        file: "src/index.njk"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Intro, name: intro, widget: markdown}
