@@ -7,8 +7,9 @@ tags:
   - "['post'"
   - "'featured']"
 feature:
-  - image
-slides: /assets/blog/img_002680.jpg
+  - slideshow
+slides:
+  - /assets/blog/img_002680.jpg
 image: /assets/blog/img_002723.jpg
 caption: Jeannyne
 ---
