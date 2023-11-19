@@ -6,8 +6,8 @@ media_folder: "public/assets/blog"
 public_folder: "/assets/blog"
 
 collections:
-  - name: "blog"
-    label: "Blog"
+  - label: "Blog"
+    name: "blog"
     folder: "src/blog"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
@@ -27,8 +27,8 @@ collections:
       - { label: "Featured Image", name: "image", widget: "image" }
       - { label: "Caption", name: "caption", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-  - name: "pages"
-    label: "Pages"
+  - label: "Pages"
+    name: "pages"
     files:
       - name: "home"
         label: "Home Page"
