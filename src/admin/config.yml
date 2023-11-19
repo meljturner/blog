@@ -27,10 +27,10 @@ collections:
       - { label: "Featured Image", name: "image", widget: "image" }
       - { label: "Caption", name: "caption", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-  - name: pages
+  - name: "pages"
     files:
-      - label: "Home Page"
-        name: "home"
+      - name: "home"
+        label: "Home Page"
         file: "src/index.njk"
         fields:
           - { label: Title, name: title, widget: string }
