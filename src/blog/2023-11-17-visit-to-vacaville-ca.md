@@ -19,5 +19,3 @@ image: https://burntlands.ca/img-server/image/33
 caption: Travels around Sonoma County
 ---
 Great visit
-## Testing Images
-
