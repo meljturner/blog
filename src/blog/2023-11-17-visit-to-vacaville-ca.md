@@ -14,7 +14,10 @@ slides:
   - /assets/blog/img_002723.png
   - /assets/blog/img_002682.png
   - /assets/blog/img_002706.png
-image: /assets/blog/img_002723.jpg
+  - https://burntlands.ca/img-server/image/33
+image: https://burntlands.ca/img-server/image/33
 caption: Travels around Sonoma County
 ---
 Great visit
+## Testing Images
+
