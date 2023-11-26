@@ -7,13 +7,13 @@ tags:
   - post
   - featured
 feature: image
-image: /assets/blog/img_002514.jpg
-caption: Photo from Chic's visit
+image: 231
+caption: Chic in downtown Almonte
 ---
 ## Chic visits Almonte
 
 My brother Chic visited Almonte in September 2023 where we met for the very first time! How could one not meet his younger brother until the age of 78? It's a long story.
-![burntlands logo](/assets/blog/img_002503.jpg)
+![]({{ 227|imageUrl }})
 That story is best told by this poem I wrote, just after Chic's visit:
 
 ```

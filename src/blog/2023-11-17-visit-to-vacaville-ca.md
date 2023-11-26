@@ -9,15 +9,14 @@ tags:
 feature:
   - slideshow
 slides:
-  - /assets/blog/img_002680.jpg
-  - /assets/blog/img_002726.jpg
-  - /assets/blog/img_002723.png
-  - /assets/blog/img_002682.png
-  - /assets/blog/img_002706.png
-image: /assets/blog/img_002723.jpg
+  - 223
+  - 225
+  - 245
+  - 243
+  - 244
+image: 225
 caption: Travels around Sonoma County
 ---
 Great visit
 
-<img src="{{ 225 | imageUrl}}" alt="an image">
 

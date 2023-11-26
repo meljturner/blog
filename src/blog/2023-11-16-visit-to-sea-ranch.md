@@ -7,16 +7,16 @@ tags:
   - post
 feature: slideshow
 slides:
-  - /assets/blog/photo-2023-10-20-12-14-48.jpg
-  - /assets/blog/photo-2023-10-20-12-14-56.jpg
-  - /assets/blog/img_0445.jpg
-  - /assets/blog/img_0452.png
-  - /assets/blog/photo-2023-10-20-12-22-21.jpg
-  - /assets/blog/img_002646.png
-  - /assets/blog/img_002654.png
-  - /assets/blog/img_002640.png
-image: /assets/blog/photo-2023-10-20-12-14-48.jpg
+  - 226
+  - 229
+  - 241
+image: 229
 caption: Scenes from Sea Ranch
 ---
 ## Sea Ranch
 Spectacular views of the Pacific Ocean while travelling from Healdsburg along Hwy 101 to this special community.
+
+More scenes in this brief movie:
+
+<iframe src="https://www.youtube.com/embed/zrmZKB82Q68?allowfullscreen=1&controls=1">
+</iframe>

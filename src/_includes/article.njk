@@ -10,7 +10,7 @@ layout: 'base.njk'
     </h1>
     {% if feature == 'image' %}
       <figure class="main-article-figure">
-        <img src="{{ image }}" alt="{{  caption }}">
+        <img src="{{ image | imageUrl}}" alt="{{  caption }}">
         <figcaption>
           {{ caption }}
         </figcaption>
@@ -20,7 +20,7 @@ layout: 'base.njk'
         <div class="reel full">
           <div><!-- header --></div>
           {% for slide in slides %}
-            <img src="{{ slide }}" alt="">
+            <img src="{{ slide|imageUrl }}" alt="">
           {% endfor %}
           <div><!-- footer --></div>
         </div>
