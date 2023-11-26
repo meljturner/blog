@@ -18,3 +18,6 @@ image: /assets/blog/img_002723.jpg
 caption: Travels around Sonoma County
 ---
 Great visit
+
+<img src="{{ 225 | imageUrl}}" alt="an image">
+
