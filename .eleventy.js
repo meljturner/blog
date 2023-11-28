@@ -10,6 +10,10 @@ module.exports = function (eleventyConfig) {
     return `${postUrl}/image/${id}`;
   });
 
+  eleventyConfig.addFilter("mapsUrl", (id) => {
+    return `${postUrl}/maps/${id}`;
+  });
+
   eleventyConfig.addFilter("postDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED);
   });
