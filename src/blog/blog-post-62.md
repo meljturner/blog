@@ -1,5 +1,6 @@
 ---
 title: API design pattern - Routes
+post: 62
 description: 
 author: Mel Turner
 date: 2023-07-20
@@ -17,19 +18,24 @@ where *host* is the domain; *media-server* is the server name; *image* is the ob
 
 ## Methods 
 A REST server should normally support GET, POST, PUT, PATCH and DELETE methods with the following expectations:
-> GET "//host/image-server/image/4".
->> Serves the specific image with id=4, presumably with appropriate MIME content-type.
->POST "//host/image-server/image/3"
->>POST may have a body and its action depends on the body content, usually in JSON format. For example it may request the image is resized or cropped.
->PUT "//host/image-server/image"
->>PUT inserts a new object whose properties are given in the body. The entire object is returned including any default properties such as the assigned id (always named *id*.
->PATCH "//host/image-server/image/4"
->>Updates the specific image with the properties given in the body. The entire object is returned as for PUT.
->DELETE //host/image-server/image/4"
->>DELETE deletes the specified image.
+
+### GET "//host/image-server/image/4".
+Serves the specific image with id=4, presumably with appropriate MIME content-type.
+
+### POST "//host/image-server/image/3"
+POST may have a body and its action depends on the body content, usually in JSON format. For example it may request the image is resized or cropped.
+
+### PUT "//host/image-server/image"
+PUT inserts a new object whose properties are given in the body. The entire object is returned including any default properties such as the assigned id (always named *id*).
+
+### PATCH "//host/image-server/image/4"
+Updates the specific image with the properties given in the body. The entire object is returned as for PUT.
+
+### DELETE //host/image-server/image/4"
+DELETE deletes the specified image.
 For those requests that contain an id, the application should handle an HTTP response code of 404 meaning the requested id was not found.
 
-##Queries
+## Queries
 Database searches will normally return a JSON array containing multiple objects. Accordingly, the operation qualifier in the GET request is usually the plural for the objects returned. The query specification is in the query string part of the request.
 
 ```

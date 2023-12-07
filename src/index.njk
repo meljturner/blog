@@ -31,7 +31,7 @@ layout: 'base.njk'
         <img
           src="{{ 227 | imageUrl }}"
           alt=""
-          class="hero__image" />
+          class="hero-image" />
       </div>
     </div>
   </section>
@@ -47,7 +47,7 @@ layout: 'base.njk'
       </p>
       <ul
         role="list"
-        class="articles__list flow">
+        class="articles-list flow">
         {% for post in collections.featured | reverse%}
           {% include 'article-snippet.njk' %}
         {% endfor %}

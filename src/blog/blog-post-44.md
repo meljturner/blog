@@ -1,9 +1,10 @@
 ---
 title: GT Turns 50
+post: 44
 description: 
 author: Mel Turner
 date: 2021-05-26
-tags: ['post']
+tags: ['post','featured']
 feature: image
 image: 82
 caption: 
