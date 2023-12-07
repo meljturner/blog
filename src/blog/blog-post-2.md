@@ -1,7 +1,7 @@
 ---
 title: Senate  Reform
 post: 2
-description: 
+description: A discussion of proportional representation
 author: Mel Turner
 date: 2020-02-18
 tags: ['post','featured']
