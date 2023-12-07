@@ -1,9 +1,10 @@
 ---
 title: Senate  Reform
+post: 2
 description: 
 author: Mel Turner
 date: 2020-02-18
-tags: ['post']
+tags: ['post','featured']
 feature: image
 image: 31
 caption: Vote once, vote often
