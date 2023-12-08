@@ -15,7 +15,8 @@ caption:
 1. Almonte![]({{ 75|imageUrl }})
 2. Karen, kanga![]({{ 83|imageUrl }})
 3. Carrolls
-1. English Family![Turners at restaurant](//localhost/post-server/image/84)
+1. English Family
+![]({{ 84|imageUrl }})
 4. Huntley Centennial School:  Derek Featherstone
 1. Petite Rouge: Stu, Andrew Venables
 6. High School: Mary-Ann Sauvé, Pam, WIll Ellis
@@ -38,9 +39,10 @@ caption:
 1. Mom & Dad
 1. UK family and kids: Julie, Sophie, WIll
 1. Adele
-![Adele Brydges](//localhost/post-server/image/77)
 
-![GT 5.0 Birthday picture](//localhost/post-server/image/87)
+![]({{ 77|imageUrl }})
+
+![]({{ 87|imageUrl }})
 
 ## The voiceover
 <pre>
