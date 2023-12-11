@@ -25,6 +25,7 @@ Following the reunion, Denise and Dan invited us to stay with them at Sea Ranch,
 ![]({{ 247|imageUrl }})
 ![]({{ 248|imageUrl }})
 ![]({{ 249|imageUrl }})
+![]({{ 256|imageUrl }})
 
 ## Vacaville
 To complete our trip we spent several days at the home of Jeannyne and Jerry. They treated us to tours of the local wine country and some great food. A real opportunity to get to know them.
