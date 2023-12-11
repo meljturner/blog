@@ -23,6 +23,7 @@ There is a configuration constant known as *mediaPath*. Images are stored in fol
 In blog posts the image reference is stored as ($image$/##)where ## is the image id. When this markdown text is converted to html by the media server this reference is replaced by the full image reference, including the caption
 
 ![Hens and Chickens]({{ 209|imageUrl }})
+<figcaption>Hens and Chicks</figcaption>
 
 The images are stored in folders named for the *topic* in that application and these are further described in the database file *topics*. These images can be given additional metadata, specifically *latitude* and *longitude* so that they can be displayed on a map.
 
